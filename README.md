@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gabi Reis
+## Olá! Eu sou a 🍒 Gabi Reis 🍒
 
 - 🐸📍 Estudante de programação 
 - 🐸📍 (programadores do amanhã/digital house)
