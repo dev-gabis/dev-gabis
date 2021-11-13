@@ -5,7 +5,6 @@
 - 🐸📍 Bh 📍| 18 autumns
 - 🐸📍{☕} amante de cafeina
 - 🐸📍16/10
-- @sergiomoura
 
  <div>
   <a href="https://github.com/Gabs-ag">
