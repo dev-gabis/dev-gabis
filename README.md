@@ -1,8 +1,18 @@
-## Oiii! Eu sou a Gabi Reis
-- 👨🏻‍💻 Estudante de programação
+## Olá! Eu sou a Gabi Reis
+
+- 🐸📍 Estudante de programação 
+- 🐸📍 (programadores do amanhã/digital house)
+- 🐸📍 Dancarina de Ballet
+- 🐸📍 Bh 📍| 18 autumns
+- 🐸📍{☕} amante de cafeina
+- 🐸📍16/10
+- 🐸📍🌻
+- 🐸📍{🛐}
+- 🐸📍{🦋 dancer} @espaco.deborasantos
+- 🐸📍{🐝 student} @programadoresdoamanha
  <div>
   <a href="https://github.com/Gabs-ag">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabs-ag&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabs-ag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs-ag&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
