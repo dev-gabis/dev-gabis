@@ -6,10 +6,7 @@
 - 🐸📍 Bh 📍| 18 autumns
 - 🐸📍{☕} amante de cafeina
 - 🐸📍16/10
-- 🐸📍🌻
-- 🐸📍{🛐}
-- 🐸📍{🦋 dancer} @espaco.deborasantos
-- 🐸📍{🐝 student} @programadoresdoamanha
+
  <div>
   <a href="https://github.com/Gabs-ag">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabs-ag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
