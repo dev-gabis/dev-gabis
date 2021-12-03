@@ -1,10 +1,8 @@
 ## Olá! Eu sou a 🍒 Gabi Reis 🍒
 
-- 🐸📍 Estudante de programação: (programadores do amanhã/digital house)
-- 🐸📍 Dancarina de Ballet
-- 🐸📍 Bh 📍| 18 autumns
-- 🐸📍{☕} amante de cafeina
-- 🐸📍16/10
+- 🐸📍 Estudante de programação: (programadores do amanhã/digital house) e dancarina de ballet
+- 🐸📍 Bh 📍|
+
 
  <div>
   <a href="https://github.com/Gabs-ag">
