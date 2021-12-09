@@ -1,7 +1,6 @@
 ## Olá! Eu sou a 🍒 Gabi Reis 🍒
 
-- 🐸📍 Estudante de programação: (programadores do amanhã/digital house) e dancarina de ballet
-- 🐸📍 Bh 📍|
+- 🐸📍 Estudante de programação: (programadores do amanhã/digital house) e dancarina de ballet 📍 Bh 📍
 
 
  <div>
