@@ -1,7 +1,9 @@
 ## Olá! Eu sou a 🍒 Gabi Reis 🍒
 
-- 🐸📍 Estudante de programação e inglês: (programadores do amanhã/digital house) e dancarina de ballet 📍 Bh 📍
-- 🐸📍 ensino médio completo
+- 🐸📍 Estudante de programação e inglês: (programadores do amanhã/digital house) 
+- 🐸📍 dev de sistemas de informação: (Creators)
+- 🐸📍 dancarina de ballet 📍 Bh 📍
+
 
  <div>
   <a href="https://github.com/Gabs-ag">
