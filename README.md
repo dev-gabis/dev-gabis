@@ -3,7 +3,7 @@
 
 - 🐸📍 Estudante de programação e inglês: (programadores do amanhã/digital house) 
 - 🐸📍 dev de sistemas de informação: (Creators)
-- 🐸📍 dancarina de ballet 📍 Bh 📍
+- 🐸📍 dancarina de ballet e jazz📍 Bh 📍
 
 
  <div>
