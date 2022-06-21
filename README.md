@@ -1,5 +1,7 @@
 <div>
 <img align"center" alt="gabi" src="https://i.ibb.co/8cMKX8k/Whats-App-Image-2022-06-21-at-10-13-39.jpg" <div>
+ <div> 
+  <img align"center" src="https://i.ibb.co/F4XDbty/Whats-App-Image-2022-06-21-at-10-41-51.jpg"</div>
 
 - 🐸📍 Estudante de programação e inglês: (programadores do amanhã/digital house) 
 - 🐸📍 dev de sistemas de informação: (Creators)
