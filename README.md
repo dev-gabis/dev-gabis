@@ -3,10 +3,6 @@
  <div> 
   <img align"center" src="https://i.ibb.co/F4XDbty/Whats-App-Image-2022-06-21-at-10-41-51.jpg"</div>
 
-- 🐸📍 Estudante de programação e inglês: (programadores do amanhã/digital house) 
-- 🐸📍 dev de sistemas de informação: (Creators)
-- 🐸📍 dancarina de ballet e jazz📍 Bh 📍
-
 
  <div>
   <a href="https://github.com/Gabs-ag">
