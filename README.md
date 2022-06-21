@@ -10,7 +10,6 @@
   <a href="https://github.com/Gabs-ag">
  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
-  <img height src="https://i.ibb.co/rpznnv7/Whats-App-Image-2022-06-21-at-08-47-22-1.jpg"/>
     <h4 align="center">✏ 𝓢𝓽𝓾𝓭𝔂𝓲𝓷𝓰 𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
