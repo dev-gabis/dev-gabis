@@ -1,4 +1,5 @@
-## Olá! Eu sou a 🍒 Gabi Reis 🍒
+<div>
+<img align"center" alt="gabi" src="https://i.ibb.co/QfmQGfz/Whats-App-Image-2022-06-21-at-08-47-17.jpg" <div>
 
 - 🐸📍 Estudante de programação e inglês: (programadores do amanhã/digital house) 
 - 🐸📍 dev de sistemas de informação: (Creators)
