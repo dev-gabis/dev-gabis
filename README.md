@@ -1,14 +1,9 @@
-<div>
-<img align"center" alt="gabi" src="https://i.ibb.co/8cMKX8k/Whats-App-Image-2022-06-21-at-10-13-39.jpg" <div>
- <div> 
-  <img align"center" src="https://i.ibb.co/F4XDbty/Whats-App-Image-2022-06-21-at-10-41-51.jpg"</div>
-
 
  <div>
   <a href="https://github.com/Gabs-ag">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielareis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielareis&layout=compact&langs_count=7&theme=radical"/>
-    <h4 align="center">✏ 𝓢𝓽𝓾𝓭𝔂𝓲𝓷𝓰 𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽</h4>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
