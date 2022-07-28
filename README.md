@@ -1,4 +1,5 @@
-
+## Oi ser humano, Sou Gabi, e sou Humana tbm (olha só qu elegal)
+- 👨🏻‍💻 Estudo e trabalho com programação
  <div>
   <a href="https://github.com/Gabs-ag">
  <img height="160m" src="https://github-readme-stats.vercel.app/api?username=gabs-ag&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
