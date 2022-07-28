@@ -1,12 +1,17 @@
 
 
 ## Oi ser humano, Sou Gabi, e sou Humana tbm (olha só que legal)
-- 👨🏻‍💻 Estudo e trabalho com programação
+- 🌸 Estudo no Programadores do Amanhã
+- 🌸 Speak english
+- 🌸 Trabalho na Crators.llc (junior)
+- 🌸 Danço ballet e jazz
+
  <div>
  <a href="https://github.com/Gabs-ag"></a>
- <img align="left" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://i.ibb.co/XFWKxrK/Avatar-Maker-1.png">
  <img height="140m" src="https://github-readme-stats.vercel.app/api?username=gabs-ag&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-ag&layout=compact&langs_count=7&theme=radical"/>
+ <img align="rigth" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://i.ibb.co/XFWKxrK/Avatar-Maker-1.png">
+
 </div>
  
  
