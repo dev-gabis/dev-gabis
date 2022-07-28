@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/Gabs-ag">
  <img height="160m" src="https://github-readme-stats.vercel.app/api?username=gabs-ag&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160m" widith="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielareis&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-ag&layout=compact&langs_count=7&theme=radical"/>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
