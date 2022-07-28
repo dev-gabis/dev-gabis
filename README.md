@@ -1,7 +1,9 @@
+
 ## Oi ser humano, Sou Gabi, e sou Humana tbm (olha só que legal)
 - 👨🏻‍💻 Estudo e trabalho com programação
  <div>
-  <a href="https://github.com/Gabs-ag">
+ <a href="https://github.com/Gabs-ag"></a>
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/XFWKxrK/Avatar-Maker-1.png">
  <img height="160m" src="https://github-readme-stats.vercel.app/api?username=gabs-ag&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-ag&layout=compact&langs_count=7&theme=radical"/>
    </div>
@@ -16,10 +18,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 <img align="center" alt="Node" height="30" widht="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="Express.js" height="30" widht="40" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></p>
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/XFWKxrK/Avatar-Maker-1.png">
+
 </div>
 
   
