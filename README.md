@@ -1,6 +1,6 @@
 
 
-## Oi ser humano, Sou Gabi, e sou Humana tbm (olha só que legal)
+## Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)
 - 🌸 Estudo no Programadores do Amanhã
 - 🌸 Speak english
 - 🌸 Trabalho na Crators.llc (junior)
