@@ -1,4 +1,4 @@
-## Oi ser humano, Sou Gabi, e sou Humana tbm (olha só qu elegal)
+## Oi ser humano, Sou Gabi, e sou Humana tbm (olha só que legal)
 - 👨🏻‍💻 Estudo e trabalho com programação
  <div>
   <a href="https://github.com/Gabs-ag">
