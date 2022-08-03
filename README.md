@@ -45,4 +45,8 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+
 </div>
+
+<div>
+ <img width="400" src="https://i.ibb.co/sHYbV3w/Frame-20-1.png"></div>
