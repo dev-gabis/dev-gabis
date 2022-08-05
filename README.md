@@ -49,4 +49,4 @@
 </div>
 
 <div>
- <img width="400" src="https://i.ibb.co/sHYbV3w/Frame-20-1.png"></div>
+ <img width="300" src="https://i.ibb.co/sHYbV3w/Frame-20-1.png"></div>
