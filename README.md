@@ -1,10 +1,10 @@
 
 
 ## Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)
-- 🌸 Estudo no Programadores do Amanhã
+- 🌸 student at Programadores do Amanhã 
 - 🌸 Speak english
-- 🌸 Trabalho na Crators.llc (junior)
-- 🌸 Danço ballet e jazz
+- 🌸 front end developer at Crators.llc (junior)
+- 🌸 ballet e jazz dancer
 
  <div>
  <a href="https://github.com/Gabs-ag"></a>
