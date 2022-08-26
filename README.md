@@ -1,13 +1,13 @@
 <div>
 <p align="left">
   <a widith href="https://chibird.com/">
-    <img width="210" alt="motivational penguin gif" src="https://c.tenor.com/VXaychl9j5gAAAAC/motivation-you-can-do-it.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="200" alt="motivational penguin gif" src="https://c.tenor.com/VXaychl9j5gAAAAC/motivation-you-can-do-it.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
   <a href="https://chibird.com/">
-    <img width="220" alt="motivational penguin gif" src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="200" alt="motivational penguin gif" src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
     <a href="https://chibird.com/">
-    <img width="390" alt="motivational penguin gif" src="https://media.giphy.com/media/f4V2mqvv0wT9m/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="355" alt="motivational penguin gif" src="https://media.giphy.com/media/f4V2mqvv0wT9m/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
   </div>
