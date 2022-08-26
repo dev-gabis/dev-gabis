@@ -1,8 +1,13 @@
+<div>
 <p align="left">
+  <a widith href="https://chibird.com/">
+    <img width="200" alt="motivational penguin gif" src="https://c.tenor.com/VXaychl9j5gAAAAC/motivation-you-can-do-it.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+  </a>
   <a href="https://chibird.com/">
-    <img alt="motivational penguin gif" src="https://c.tenor.com/VXaychl9j5gAAAAC/motivation-you-can-do-it.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="200" alt="motivational penguin gif" src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
+  </div>
 
 ## Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)
 - 🌸 student at Programadores do Amanhã 
