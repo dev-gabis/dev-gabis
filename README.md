@@ -1,13 +1,10 @@
 <div>
-<p align="left">
-  <a widith href="https://chibird.com/">
-    <img width="150" alt="motivational penguin gif" src="https://c.tenor.com/VXaychl9j5gAAAAC/motivation-you-can-do-it.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
-  </a>
+<p>
   <a href="https://chibird.com/">
     <img width="150" alt="motivational penguin gif" src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
     <a href="https://chibird.com/">
-    <img width="270" alt="motivational penguin gif" src="https://media.giphy.com/media/f4V2mqvv0wT9m/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="270" alt="motivational penguin gif" src="https://media.giphy.com/media/f4V2mqvv0wT9m/giphy.gif" width="70%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
   </div>
@@ -25,10 +22,8 @@
  <img align="rigth" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://i.ibb.co/XFWKxrK/Avatar-Maker-1.png">
 
 </div>
- 
- <details>
-  <summary>💙 Open to see my sociall medias</summary>
-  <br>
+ <br>
+ <div>
    <a href="https://www.youtube.com/channel/UCXzZZJb2KeXAVgfFgwMLLCg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dev_gabi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/smileofgabs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -37,14 +32,12 @@
   <a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-</details>
+</div>
 
 <div style="display: inline_block"><br>
  </div>
  
- <details>
-  <summary>💙 Open to see my best skills</summary>
-  <br>
+ <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -53,7 +46,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
  
  
-</details>
+</div>
 
 <div style="display: inline_block"><br>
 
