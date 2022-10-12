@@ -1,17 +1,17 @@
 <div>
 <p>
   <a href="https://chibird.com/">
-    <img width="200" alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784695501766777/tumblr_d0a538dae7d43d07a805e21ad39813bd_3ef707a6_1280.jpg" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="150" alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784695501766777/tumblr_d0a538dae7d43d07a805e21ad39813bd_3ef707a6_1280.jpg" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
   <a href="https://chibird.com/">
-    <img width="200" alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694801322065/tumblr_7cc227a1249ff1db6abc1b1ec75903d9_2305d850_1280.jpg" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="150" alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694801322065/tumblr_7cc227a1249ff1db6abc1b1ec75903d9_2305d850_1280.jpg" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
   <a href="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694583210105/tumblr_1db42c8adb8807f55052552eaa1d7046_faa650b5_1280.jpg">
-    <img width="200" alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694583210105/tumblr_1db42c8adb8807f55052552eaa1d7046_faa650b5_1280.jpg" width="70%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="150" alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694583210105/tumblr_1db42c8adb8807f55052552eaa1d7046_faa650b5_1280.jpg" width="70%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
   
    <a href="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694583210105/tumblr_1db42c8adb8807f55052552eaa1d7046_faa650b5_1280.jpg">
-    <img width="200" alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694369304627/tumblr_c8e24150b6854c26f2b67a9251624e0a_c69f26fa_1280.jpg" width="70%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img width="150" alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694369304627/tumblr_c8e24150b6854c26f2b67a9251624e0a_c69f26fa_1280.jpg" width="70%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
   </div>
