@@ -29,8 +29,8 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)Bem vindos ao
 <div>
 <div>
 <a href="https://github.com/Gabs-ag"></a>
- <img height="140m" src="https://github-readme-stats.vercel.app/api?username=gabs-ag&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-ag&layout=compact&langs_count=7&theme=radical"/> 
+ <img height="140m" src="https://github-readme-stats.vercel.app/api?username=gabs-ag&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+ <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-ag&layout=compact&langs_count=7&theme=onedark"/> 
 </div>
 
 ##
