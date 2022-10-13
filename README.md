@@ -19,11 +19,11 @@
 ## Bem vindo! 👋
 
 
-Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
+Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos. Eu sou:
 
-* 🌸 **Student at Programadores do Amanhã**
-* 🌸 **front end developer at Crators.llc (junior)**
-* 🌸 **ballet & jazz dancer**
+* 🌸 **Estudante de programação no Programadores do Amanhã**
+* 🌸 **Front end developer na Crators.llc (junior)**
+* 🌸 **Dançarina de ballet & jazz**
 * 🌸 **Estudando Desenvolvimento Web no Programadores do Amanha**
 <br>
 <div>
