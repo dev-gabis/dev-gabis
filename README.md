@@ -78,3 +78,7 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)Bem vindos ao
  
 <br>
 </div>
+
+<div>
+ <img width="300" src="https://i.ibb.co/sHYbV3w/Frame-20-1.png"></div>
+
