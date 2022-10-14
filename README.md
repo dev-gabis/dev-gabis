@@ -36,7 +36,7 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)Bem vindos ao
 ##
 
 <div align = "center">
- <img align="rigth" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://i.ibb.co/XFWKxrK/Avatar-Maker-1.png">
+ <img align="rigth" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1021439805969670164/1030464909177274518/AvatarMaker_1.png">
 
 
 ## Contato:
