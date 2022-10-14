@@ -19,7 +19,7 @@
 ## Bem vindo! 👋
 
 
-Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal)Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos. Eu sou:
+Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos. Eu sou:
 
 * 🌸 **Estudante de programação no Programadores do Amanhã**
 * 🌸 **Front end developer na Crators.llc (junior)**
