@@ -54,10 +54,17 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 </div>
 <br>
  
+ <a target="_blank" >
+  <img align="left" top="500" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+ </div>                                                                                                                   
 
-## Ferramentas:
+                                                                                                                    
       
-<div align = "left">
+<div align = "center">                                                                                                                   
+                                                                                                                    
+## Ferramentas:
+
 <div style="display: inline_block"><br>
     <div>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
@@ -73,11 +80,16 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
  
 </div>
 <br>
+<br>
+<br>
 
 </p>
 
 
 </p>  
+                                                         
+                                                         
+##
 
 
 
