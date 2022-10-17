@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <p>
   <a href="https://chibird.com/">
     <img width="200 alt="motivational penguin gif" src="https://cdn.discordapp.com/attachments/1021439805969670164/1029784695501766777/tumblr_d0a538dae7d43d07a805e21ad39813bd_3ef707a6_1280.jpg" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
@@ -21,16 +21,16 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="500px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+<div align="center"> 
 
 ## Bem vindo! 👋
 
 
 Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos. Eu sou:
 
-</p>
+</div>
 
-
+<p>
 * 🌸 **Estudante de programação no Programadores do Amanhã**
 * 🌸 **Front end developer na Crators.llc (junior)**
 * 🌸 **Dançarina de ballet & jazz**
