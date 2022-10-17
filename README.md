@@ -1,3 +1,6 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
 <div align="center">
 <p>
   <a href="https://chibird.com/">
@@ -17,7 +20,8 @@
   </div>
   
   
-  ##
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="500px" align="right" alt="Computador iuriCode">
 
@@ -125,6 +129,11 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 
 <div align=center>
  <img width="300" src="https://i.ibb.co/sHYbV3w/Frame-20-1.png"></div>
+                                                               
+                                                               
+                                                               
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 
 
