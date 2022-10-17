@@ -40,8 +40,10 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 <div>
    <div align = "cleft">
   <a href="https://instagram.com/dev_gabi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:gabriela@creators.llc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:gabriela@creators.llc"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/gab.reis.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  
  
  
 </div>
@@ -79,9 +81,9 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 <div>
 <div>
 <a href="https://github.com/Gabs-ag"></a>
- <img height="150m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
- <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
-  <img align="rigth" alt="Rafa-pic" height="175m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1021439805969670164/1030464909177274518/AvatarMaker_1.png">
+ <img height="175m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+ <img height="175m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
+  <img align="rigth" alt="Rafa-pic" height="150m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1021439805969670164/1030464909177274518/AvatarMaker_1.png">
 </div>
 
 #
