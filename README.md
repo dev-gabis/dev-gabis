@@ -106,10 +106,13 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
   <img align="rigth" alt="Rafa-pic" height="150m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1021439805969670164/1030464909177274518/AvatarMaker_1.png">
 </div>
 
-#
+
 
 <br>
 
+ <a href="https://github.com/dev-gabis"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-gabis&custom_title=Gabis's%20Contribution%20Graph&theme=onedark" /></a>
+ 
+##
 <div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
