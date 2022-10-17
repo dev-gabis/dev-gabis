@@ -70,7 +70,7 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
                                                                                                                    
 <div align = "center">                                                                                                                   
                                                                                                                     
-## Ferramentas:
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Ferramentas:
 
 <div style="display: inline_block"><br>
     <div>
