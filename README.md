@@ -61,8 +61,9 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 </a>
  </div>                                                                                                                   
 
-                                                                                                                    
-      
+<br>
+<br>
+                                                                                                                   
 <div align = "center">                                                                                                                   
                                                                                                                     
 ## Ferramentas:
