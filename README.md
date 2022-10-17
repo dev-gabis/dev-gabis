@@ -30,7 +30,7 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 
 </div>
 
-<p>
+
 * 🌸 **Estudante de programação no Programadores do Amanhã**
 * 🌸 **Front end developer na Crators.llc (junior)**
 * 🌸 **Dançarina de ballet & jazz**
