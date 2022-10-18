@@ -116,9 +116,6 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
    
 </div>
 
-<div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark" alt="GitHub Stats" /> <br/><br/>
-</div>
 
 
 
