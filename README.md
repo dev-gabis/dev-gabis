@@ -47,13 +47,13 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-   <div align = "left">
-  <a href="https://instagram.com/dev_gabi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:gabriela@creators.llc"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/gab.reis.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Fearoads" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   <a href="https://www.twitch.tv/smileofgabs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <div align = "center">
+  <a href="https://instagram.com/dev_gabi" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+  <a href = "mailto:gabriela@creators.llc"><img src="https://img.icons8.com/doodle/48/000000/gmail-new.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+  <a href="https://www.facebook.com/gab.reis.7/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>
+  <a href="https://twitter.com/Fearoads" target="_blank"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a></a>
+  <a href="https://www.twitch.tv/smileofgabs" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/twitch.png"/></a>
   
  
  
@@ -72,8 +72,9 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
                                                                                                                     
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Ferramentas:
 
-<div style="display: inline_block"><br>
-    <div>
+<div  style="display: inline_block"><br>
+
+<div align = "center"> 
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
 <img src="https://img.icons8.com/fluency/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
