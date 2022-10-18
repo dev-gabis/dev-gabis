@@ -27,7 +27,8 @@
 
 <div align="center"> 
 
-## Bem vindo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
 Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos. Eu sou:
@@ -61,7 +62,7 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 <br>
  
  <a target="_blank" >
-  <img align="left" top="500" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="left" top="500" width="350" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </a>
  </div>                                                                                                                   
 
