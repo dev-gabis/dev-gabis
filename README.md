@@ -28,6 +28,7 @@
 <div align="center"> 
 
 
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
@@ -103,10 +104,14 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 
 
 <div>
+<p align="center">
+  <img style="width:6rem; height:auto" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"/>
+</p>
+
+<h1 align="center">Git Activenes</h1>
 
 
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;***Git Activeness***
 
 <br>
 <a href="https://github.com/Gabs-ag"></a>
