@@ -113,6 +113,11 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
  <img height="150m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
   <img align="rigth" alt="Rafa-pic" height="150m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1021439805969670164/1030464909177274518/AvatarMaker_1.png">
+   
+</div>
+
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis" alt="GitHub Stats" /> <br/><br/>
 </div>
 
 
