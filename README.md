@@ -102,6 +102,9 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 <br><bR>
 
 
+## Skils
+
+
 
 <br>
 <div>
