@@ -125,6 +125,7 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark)](https://git.io/streak-stats) 
 
 
+![](https://github-profile-trophy.vercel.app/?username=dev-gabis&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 <br>
 
  <a href="https://github.com/dev-gabis"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-gabis&custom_title=Gabis's%20Contribution%20Graph&theme=onedark" /></a>
