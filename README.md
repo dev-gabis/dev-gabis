@@ -128,7 +128,9 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 
  <a href="https://github.com/dev-gabis"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-gabis&custom_title=Gabis's%20Contribution%20Graph&theme=onedark" /></a>
  
-##
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
