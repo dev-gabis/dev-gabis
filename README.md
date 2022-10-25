@@ -116,10 +116,11 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 
 
 <br>
+  <img align="rigth" alt="Rafa-pic" height="150m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1021439805969670164/1030464909177274518/AvatarMaker_1.png">
 <a href="https://github.com/Gabs-ag"></a>
  <img height="150m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
-  <img align="rigth" alt="Rafa-pic" height="150m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1021439805969670164/1030464909177274518/AvatarMaker_1.png">
+
    
 </div>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
