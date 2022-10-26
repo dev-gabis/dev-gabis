@@ -88,10 +88,6 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img src="https://img.icons8.com/ios-glyphs/30/228BE6/visual-studio.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/>
  
 </div>
 <br>
