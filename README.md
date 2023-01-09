@@ -128,17 +128,13 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark)](https://git.io/streak-stats) 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark" alt="candida18"  /></p>
-
- 
- 
- 
-<p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark" alt="candida18"  />
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+                                                                                                      </p>
  
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
                                                                                                   
-                                                                                                  </p>
+                                                                                                 
 
 <div> 
 
