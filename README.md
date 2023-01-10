@@ -39,7 +39,8 @@ Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos a
 </div>
 
 
-* 🌸 **Estudante de programação no `Programadores do Amanhã`**
+* 🌸 **formada em programação web fullstack no `Programadores do Amanhã`**
+* 🌸 **Cursando Analise & Ddesenvolvimento de Sistema `FAculdade Anhanguera`**
 * 🌸 **Front end developer na Crators.llc  `junior`**
 * 🌸 **Dançarina de ballet & jazz**
 
