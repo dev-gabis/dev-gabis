@@ -25,7 +25,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="600px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="550px" align="right" alt="Computador iuriCode">
 
 <div align="center"> 
 
@@ -34,13 +34,13 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
-Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos. Eu sou:
+Oi ser humano, 👋 Sou Gabi, e sou Humana tbm (olha só que legal) Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
 
 </div>
 
 
-* 🌸 **Formada em programação web fullstack no `Programadores do Amanhã`**
-* 🌸 **Cursante de Analise & Ddesenvolvimento de Sistema `Faculdade Anhanguera`**
+* 🌸 **Programação web fullstack no `Programadores do Amanhã`**
+* 🌸 **Analise & Desenvolvimento de Sistema `Anhanguera`**
 * 🌸 **Front end developer na Crators.llc  `junior`**
 * 🌸 **Dançarina de ballet & jazz**
 
