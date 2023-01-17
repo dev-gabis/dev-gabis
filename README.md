@@ -1,28 +1,8 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
 
-<div align="center">
-<p>
-  <a href="https://chibird.com/">
-    <img width="200 alt="motivational penguin gif" src="https://user-images.githubusercontent.com/72838913/196468880-2228de3a-f6d4-4c2a-9556-6450c933e114.png" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
-  </a>
-  
-  <a href="https://chibird.com/">
-    <img width="200" alt="motivational penguin gif" src="https://user-images.githubusercontent.com/72838913/196469154-10e1277f-864c-40a6-89e1-f6029c76d76a.png" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
-  </a>
-  
-  <a href="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694583210105/tumblr_1db42c8adb8807f55052552eaa1d7046_faa650b5_1280.jpg">
-    <img width="200" alt="motivational penguin gif" src="https://user-images.githubusercontent.com/72838913/196469591-36630f60-2569-4c18-943c-849589a92812.png" width="70%" height=auto preserveAspectRatio="xMidYMid meet"/>
-  </a>
-  
-   <a href="https://cdn.discordapp.com/attachments/1021439805969670164/1029784694583210105/tumblr_1db42c8adb8807f55052552eaa1d7046_faa650b5_1280.jpg">
-    <img width="200" alt="motivational penguin gif" src="https://user-images.githubusercontent.com/72838913/196469737-f5c4cd24-4706-4b46-b44e-dd2ee613b0ad.png" width="70%" height=auto preserveAspectRatio="xMidYMid meet"/>
-  </a>
-</p>
-  </div>
   
   
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="550px" align="right" alt="Computador iuriCode">
