@@ -5,7 +5,7 @@
   
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="450px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="500px" align="right" alt="Computador iuriCode">
 
 <div align="center"> 
 
@@ -19,7 +19,7 @@ Oi ser humano, 👋 Sou Gabi, Bem vindos ao meu GitHub aqui você poderá ver um
 </div>
 
 
-* 🌸 **Programação web fullstack no `Programadores do Amanhã/Digital house`**
+* 🌸 **Programação web fullstack no `Digital house`**
 * 🌸 **Analise & Desenvolvimento de Sistema `Anhanguera`**
 * 🌸 **Front end developer na Crators.llc  `junior`**
 * 🌸 **Dançarina de ballet & jazz**
