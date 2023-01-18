@@ -109,6 +109,7 @@ Oi ser humano, 👋 Sou Gabi, Bem vindos ao meu GitHub aqui você poderá ver um
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark)](https://git.io/streak-stats) 
+  
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
                                                                                                   
