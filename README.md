@@ -126,9 +126,7 @@ Oi ser humano, 👋 Sou Gabi, Bem vindos ao meu GitHub aqui você poderá ver um
  <img width="300" src="https://i.ibb.co/sHYbV3w/Frame-20-1.png"></div>
                                                                
                                                                
-                                                               
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
 
 
 
