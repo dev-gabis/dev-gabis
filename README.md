@@ -19,7 +19,7 @@ Oi ser humano, 👋 Sou Gabi, Bem vindos ao meu GitHub aqui você poderá ver um
 </div>
 
 
-* 🌸 **Programação web fullstack no `Programadores do Amanhã`**
+* 🌸 **Programação web fullstack no `Programadores do Amanhã/Digital house`**
 * 🌸 **Analise & Desenvolvimento de Sistema `Anhanguera`**
 * 🌸 **Front end developer na Crators.llc  `junior`**
 * 🌸 **Dançarina de ballet & jazz**
