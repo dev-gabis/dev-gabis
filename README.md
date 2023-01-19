@@ -99,10 +99,10 @@ Oi ser humano, 👋 Sou Gabi, Bem vindos ao meu GitHub aqui você poderá ver um
 
 
 <br>
-  <img align="rigth" alt="Rafa-pic" height="150m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/965731852746911744/1034298785632882758/AvatarMaker.png">
+  <img align="rigth" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/965731852746911744/1034298785632882758/AvatarMaker.png">
 <a href="https://github.com/Gabs-ag"></a>
- <img height="150m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
- <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
+ <img height="140m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+ <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
 
    
 </div>
