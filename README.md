@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#add8e6&height=120&section=header"/>
 
 
   
@@ -127,7 +127,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
  <img width="300" src="https://i.ibb.co/sHYbV3w/Frame-20-1.png"></div>
                                                                
                                                                
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=120&section=footer"/>
 
 
 
