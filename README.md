@@ -86,7 +86,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 
 <br><bR>
 
-
+ 
 <div>
 <p align="center">
   <img style="width:6rem; height:auto" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"/>
