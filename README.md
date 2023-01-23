@@ -11,10 +11,10 @@
 
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Gabi Reis***
 
 
-Oi ser humano, 👋 Sou Gabi, Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
+Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
 
 </div>
 
