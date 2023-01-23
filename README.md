@@ -109,6 +109,13 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark)](https://git.io/streak-stats) 
   
+  
+  
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&theme=onedark)
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=dev-gabis)
+  
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
                                                                                                   
