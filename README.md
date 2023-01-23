@@ -104,7 +104,9 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 <a href="https://github.com/Gabs-ag"></a>
 <img height="140m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark)](https://git.io/streak-stats) 
+ <br>
+<img height="140m" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark"/> 
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
 
