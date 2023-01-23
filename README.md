@@ -2,11 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 
-  
-  
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="500px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="400px" align="right" alt="Computador iuriCode">
 
 <div align="center"> 
 
@@ -31,27 +27,17 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
                
 #
 
-<div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-   <div align = "center">
-  <a href="https://instagram.com/dev_gabi" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" width="50" height="50"></a>
-  <a href = "mailto:gabriela@creators.llc"><img src="https://img.icons8.com/doodle/48/000000/gmail-new.png" target="_blank" width="50" height="50"></a>
-  <a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="50" height="50"></a>
-  <a href="https://www.facebook.com/gab.reis.7/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" width="50" height="50"/></a>
-  <a href="https://twitter.com/Fearoads" target="_blank"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" width="50" height="50" ></a></a>
+<div align = "center">
+<a href="https://instagram.com/dev_gabi" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" width="50" height="50"></a>
+<a href = "mailto:gabriela@creators.llc"><img src="https://img.icons8.com/doodle/48/000000/gmail-new.png" target="_blank" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="50" height="50"></a>
+<a href="https://www.facebook.com/gab.reis.7/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" width="50" height="50"/></a>
+<a href="https://twitter.com/Fearoads" target="_blank"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" width="50" height="50" ></a></a>
   <a href="https://www.twitch.tv/smileofgabs" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/twitch.png" width="50" height="50"/></a>
-  
- 
- 
-</div>
-<br>
- 
- <a target="_blank" >
-  <img align="left" top="500" width="350" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
-</a>
- </div>                                                                                                                   
+</div>                                                                                                       
 
 <br>
 <br>
@@ -105,10 +91,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 <img height="140m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
  <br>
-<img height="140m" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark"/> 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark"/> 
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
