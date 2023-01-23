@@ -13,6 +13,8 @@
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Gabi Reis***
+  
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=dev-gabis)
 
 
 Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
@@ -103,17 +105,12 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
  <img height="140m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
 
-   
-</div>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark)](https://git.io/streak-stats) 
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&theme=onedark"/> 
+
   
   
-  
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&theme=onedark)
  ![Jokes Card](https://readme-jokes.vercel.app/api)
- ![Profile View Counter](https://komarev.com/ghpvc/?username=dev-gabis)
   
 
 
