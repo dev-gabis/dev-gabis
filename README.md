@@ -100,17 +100,12 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 
 
 <br>
-  <img align="rigth" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/965731852746911744/1034298785632882758/AvatarMaker.png">
+<img align="rigth" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/965731852746911744/1034298785632882758/AvatarMaker.png">
 <a href="https://github.com/Gabs-ag"></a>
- <img height="140m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
- <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
-
+<img height="140m" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark)](https://git.io/streak-stats) 
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&theme=onedark"/> 
-
-  
-  
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
   
 
 
