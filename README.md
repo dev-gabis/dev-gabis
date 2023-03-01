@@ -34,7 +34,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 <a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="50" height="50"></a>
 <a href="https://www.facebook.com/gab.reis.7/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" width="50" height="50"/></a>
 <a href="https://twitter.com/Fearoads" target="_blank"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" width="50" height="50" ></a></a>
-  <a href="https://www.twitch.tv/smileofgabs" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/twitch.png" width="50" height="50"/></a>
+  <a href="https://www.twitch.tv/smileofgab" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/twitch.png" width="50" height="50"/></a>
 </div>                                                                                                       
 
 <br>
