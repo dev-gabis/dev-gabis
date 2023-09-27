@@ -74,29 +74,6 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 
  
 <div>
-<p align="center">
-  <img style="width:6rem; height:auto" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"/>
-</p>
-
-<h1 align="center">Git Activenes</h1>
-
-
-
-
-<br>
-<img align="rigth" alt="Rafa-pic" height="140m" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/965731852746911744/1034298785632882758/AvatarMaker.png">
-<a href="https://github.com/Gabs-ag"></a>
-<!--   
-<img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=onedark"/>  -->
- <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gabis&theme=onedark"/> 
-
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-                                                                                                  
-                                                                                                 
-
-<div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
