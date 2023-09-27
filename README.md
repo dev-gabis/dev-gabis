@@ -75,7 +75,6 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
  
 <div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 <br>
 </div>
