@@ -57,6 +57,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="git" width="50" height="50"/>
 </div>
 <br>
 <br>
