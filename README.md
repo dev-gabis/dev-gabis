@@ -17,8 +17,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 
 
 * 🌸 **dev. web fullstack `Digital house`**
-* 🌸 **Analise & Desenvolvimento de Sistema `Anhanguera`**
-* 🌸 **Front end developer na Crators.llc  `junior`**
+* 🌸 **Analise & Desenvolvimento de Sistema `Newton`**
 * 🌸 **Dançarina de ballet *
 
 <p align="left">
