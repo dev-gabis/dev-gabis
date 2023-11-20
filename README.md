@@ -18,7 +18,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 
 * 🌸 **dev. web fullstack `Digital house`**
 * 🌸 **Analise & Desenvolvimento de Sistema `Newton`**
-* 🌸 **Dançarina de ballet *
+* 🌸 **Dançarina de ballet **
 
 <p align="left">
                
