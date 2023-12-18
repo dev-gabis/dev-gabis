@@ -64,9 +64,10 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 
 </p>
 
-
-</p>  
-                                                         
+<div align="center" style="display: inline_block">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=jolly"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=jolly"/>
+</div>                  
                                                          
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
