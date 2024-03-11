@@ -16,7 +16,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 </div>
 
 
-* 🌸 **dev. web fullstack `Digital house`**
+* 🌸 **dev. web fullstack `Programadores do amanhã`**
 * 🌸 **Analise & Desenvolvimento de Sistema `Newton`**
 * 🌸 **Dançarina de ballet **
 
@@ -80,12 +80,6 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GrazielleNascimento/GrazielleNascimento/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GrazielleNascimento/GrazielleNascimento/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GrazielleNascimento/GrazielleNascimento/output/github-contribution-grid-snake-dark.svg">
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dev-gabs}/count.svg" /></p> 
-<br>
 </div>
                                                                
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
