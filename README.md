@@ -38,7 +38,7 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 <br>
                                                                                                                    
 <div align = "center">                                                                                                                   
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h3 align="center" > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;"> Habilidades: </h3>
 
 <div  style="display: inline_block"><br>
