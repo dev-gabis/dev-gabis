@@ -8,7 +8,8 @@
 
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Gabi Reis***
+# 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Gabi Reis***
 
 
 Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
