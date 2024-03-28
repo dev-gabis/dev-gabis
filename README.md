@@ -17,8 +17,8 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 </div>
 
 
-* 🌸 **dev. web fullstack `Programadores do amanhã`**
-* 🌸 **Analise & Desenvolvimento de Sistema `Newton`**
+* 🌸 **dev. web fullstack [`Programadores do amanhã`](https://programadoresdoamanha.org)**
+* 🌸 **Analise & Desenvolvimento de Sistema  [`Newton`](https://newtonpaiva.br)**
 * 🌸 **Dançarina de ballet **
 
 <p align="left">
