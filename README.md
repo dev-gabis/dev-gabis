@@ -29,7 +29,6 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contatos 🤝 </h3>
 
 <div align = "center">
-<a href="https://instagram.com/dev_gabi" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" width="50" height="50"></a>
 <a href = "mailto:reisgabriela293@gmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail-new.png" target="_blank" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/gabriela-reis-88a0411b7/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="50" height="50"></a>
 </div>                                                                                                       
