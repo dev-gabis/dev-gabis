@@ -65,16 +65,27 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 ## Github Stats
 
 <div align="center" style="display: inline_block">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=jolly"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=jolly"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=jolly"/>
 </div>
 
+<div align="center" style="display: inline_block">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-gabis&theme=jolly"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-gabis&theme=jolly&utcOffset=8"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-gabis&theme=jolly"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-gabis&theme=jolly"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-gabis&theme=jolly"/>
+</div>
 
+<div>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-gabis&theme=jolly) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-gabis&theme=jolly&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-gabis&theme=jolly) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-gabis&theme=jolly) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-gabis&theme=jolly) 
-|:---:|
-
-                                                         
+                                                      
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
                                                                
