@@ -35,6 +35,9 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 
 <br>
 <br>
+<div align = "center">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jxk7pvnfbaajcnxeel7k2udt3m&unique={true|1|on|yes})
                                                                                                                    
 <div align = "center">                                                                                                                   
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
