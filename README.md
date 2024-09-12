@@ -65,8 +65,8 @@ Oi ser humano, 👋 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho
 ## Github Stats
 
 <div align="center" style="display: inline_block">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=jolly"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=jolly"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabis&layout=compact&langs_count=7&theme=jolly"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dev-gabis&show_icons=true&theme=jolly"/>
 </div>
 
 
